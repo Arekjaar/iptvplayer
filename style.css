@@ -1,0 +1,79 @@
+body{
+
+background:#111;
+color:white;
+font-family:Arial;
+margin:0;
+text-align:center;
+
+}
+
+header{
+
+padding:80px 20px;
+
+}
+
+ol, ul{
+text-align:left;
+max-width:700px;
+margin:20px auto;
+padding-left:25px;
+        width: max-content;
+}
+
+.div-download-btn{
+
+margin-top: 40px;
+
+}
+
+.download-btn{
+
+background:linear-gradient(45deg,#00c3ff,#004cff);
+padding:16px 35px;
+border-radius:30px;
+color:white;
+text-decoration:none;
+font-size:20px;
+
+}
+
+.app-image{
+
+max-width:900px;
+width:80%;
+border-radius:20px;
+
+}
+
+.features{
+
+display:flex;
+justify-content:center;
+gap:40px;
+flex-wrap:wrap;
+margin:60px 20px;
+
+}
+
+.feature{
+
+background:#1c1c1c;
+padding:30px;
+border-radius:15px;
+width:250px;
+
+}
+
+.guide-btn{
+
+display:inline-block;
+margin:10px;
+padding:12px 30px;
+background:#004cff;
+border-radius:20px;
+color:white;
+text-decoration:none;
+
+}
